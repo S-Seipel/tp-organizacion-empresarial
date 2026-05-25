@@ -1,0 +1,8 @@
+====================================================
+       REPORTE DE INDICADORES CLIMÁTICOS (UTN)       
+====================================================
+
+Temperatura Promedio Historica: 0.62 °C
+Temperatura Maxima Registrada:  1.15 °C
+Temperatura Minima Registrada:  0.12 °C
+Promedio Anual de Precipitaciones: 953.42 mm
